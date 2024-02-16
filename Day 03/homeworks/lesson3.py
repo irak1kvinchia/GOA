@@ -1,5 +1,5 @@
-age1 = 42
-age2 = 43
+mother = 42
+dad = 43
 
-print(age1 + 2)
-print(age2 + 2)
+print(mother + 2)
+print(dad + 2)

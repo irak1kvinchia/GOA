@@ -20,3 +20,6 @@
 # food = ["shemwvari kartofili", "arajani", "xinkali", "mwvadi", "gomi"]
 # choise = int(input("enter your num: "))
 # print(food[choise])
+
+
+
